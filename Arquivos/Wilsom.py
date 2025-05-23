@@ -1,7 +1,7 @@
 import time
 import random
 
-version = '1.3 beta - sistema de hidratação adicionado!'
+version = '1.0 alpha'
 
 print("\n🐾 Brincando com o Wilsom 🐈")
 print(f"Versão: {version}\n")
